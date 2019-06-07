@@ -1,0 +1,14 @@
+第一次发布 (本地---远程)
+git add . //文件--暂存区
+git commit -m "注释内容"    //暂存区--本地分支（默认master）
+git push -u roigin master
+
+第一次下载
+git clone git@github.com:tangren7haut/mygit2.git
+
+更新
+git add .
+git commit -m ""
+git push origin master
+
+提交
